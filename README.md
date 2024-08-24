@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo.png" height = "200" ></img></p>
+<p align="center"><img src="assets/logo.png" height = "300" ></img></p>
 <!-- <h1 align="center">FinCombat</h1>
 <p align="center"><b>Empower Your Finances, One Game at a Time</b></p> -->
 
