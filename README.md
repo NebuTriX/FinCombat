@@ -1,6 +1,6 @@
-<p align="center"><img src="logo.png" height = "200" ></img></p>
-<h1 align="center">FinCombat</h1>
-<p align="center"><b>Empower Your Finances, One Game at a Time</b></p>
+<p align="center"><img src="assets/logo.png" height = "200" ></img></p>
+<!-- <h1 align="center">FinCombat</h1>
+<p align="center"><b>Empower Your Finances, One Game at a Time</b></p> -->
 
 FinCombat tackles financial illiteracy by making learning about money enjoyable and accessible through interactive gameplay. It offers diverse challenges like budgeting, saving, investing, debt management, and retirement planning. Users receive personalized feedback, ensuring they grasp financial concepts effectively. 
 
